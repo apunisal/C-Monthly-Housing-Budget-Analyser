@@ -1,2 +1,2 @@
-# C-Monthly-Housing-Budget-Analyser
+# Monthly-Housing-Budget-Analyser
 Mini Project
